@@ -51,7 +51,7 @@ NJE_AUTO is a modern, full-stack Garage Management System (GMS) tailored for Nat
 
 ---
 
-## ⚙️ Environment Variables
+<!-- ## ⚙️ Environment Variables
 
 You'll need to configure the following in your `.env` file:
 
@@ -77,12 +77,12 @@ DATABASE_URL=postgresql://USER:PASSWORD@HOST:PORT/DATABASE
 NEXT_PUBLIC_CLERK_FRONTEND_API=
 CLERK_API_KEY=
 
-```
+``` -->
 
 # 🛠️ Getting Started
 
 ## 1. Clone the repo
-git clone https://github.com/TheBryanSmith/Nate_Website.git
+git clone https://github.com/your-username/garageflow.git
 cd garageflow
 
 ## 2. Install dependencies
