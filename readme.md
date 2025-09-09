@@ -82,7 +82,7 @@ CLERK_API_KEY=
 # 🛠️ Getting Started
 
 ## 1. Clone the repo
-git clone https://github.com/your-username/garageflow.git
+git clone https://github.com/TheBryanSmith/Nate_Website.git
 cd garageflow
 
 ## 2. Install dependencies
